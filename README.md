@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adarsh Jha</h1>
 <h3 align="center">Passionate college student aspiring to become a DevOps Engineer</h3>
+<h3 align="center">Git & GitHub, Linux, Docker, Ansible, Jenkins, YAML, Shell Script, AWS, Nginx.</h3>
 
-- 🌱 I’m currently learning **DevOps tools: Git & GitHub, Linux, Docker, Ansible, Jenkins, YAML, Shell Script, Terraform, AWS, Nginx.**
+- 🌱 I’m currently learning **DevOps tools + Front-end: HTML, CSS, JavaScript & Kubernetes**
 
 - 👨‍💻 All of my projects are available at GitHub [https://github.com/AdarshJha-1](https://github.com/AdarshJha-1)
 
