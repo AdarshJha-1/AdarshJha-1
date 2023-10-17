@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **I'm a proud weeb who absolutely adores anime**
 
+![](https://komarev.com/ghpvc/?username=AdarshJha-1&color=blueviolet&style=for-the-badge)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adarsh2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adarsh2005" height="30" width="40" /></a>
