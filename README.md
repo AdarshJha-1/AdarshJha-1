@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Jha</h1>
-<h3 align="center">Passionate college student aspiring to become a DevOps Engineer</h3>
-<h3 align="center">Git & GitHub, Linux, Docker, Ansible, Jenkins, YAML, Shell Script, AWS, Nginx.</h3>
+<h3 align="center"> an 18-year-old college student passionate about Frontend development and DevOps</h3>
+<h5 align="center">HTML, CSS, JavaScript, and Tailwind CSS | Familiar with Linux 🐧, CI/CD Pipeline 🔄, Git/GitHub 🌱, Ansible, Docker 🐳, AWS ☁️, Nginx 🌐, YAML 📝</h5>
 
 - 🌱 I’m currently learning **DevOps tools + Front-end: HTML, CSS, JavaScript & Kubernetes**
 
@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on Hashnode [https://adarshdevops.hashnode.dev/](https://adarshdevops.hashnode.dev/)
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about: **Front-End | DevOps**
 
 - 📫 How to reach me **adarsh2005j@gmail.com**
 
