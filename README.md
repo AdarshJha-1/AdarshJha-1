@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Jha</h1>
-<h3 align="center"> an 18-year-old college student passionate about Frontend development and DevOps</h3>
+<h3 align="center">An 18-year-old college student passionate about Frontend development and DevOps</h3>
 <P align="center">HTML, CSS, JavaScript, and Tailwind CSS | Familiar with Linux 🐧, CI/CD Pipeline 🔄, Git/GitHub 🌱, Ansible, Docker 🐳, AWS ☁️, Nginx 🌐, YAML 📝</P>
 
 - 🌱 I’m currently learning **DevOps tools + Front-end: HTML, CSS, JavaScript & Kubernetes**
