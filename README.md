@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js** and **Go**
 
 - 📝 I regularly write articles on [https://adarshdevops.hashnode.dev/](https://adarshdevops.hashnode.dev/)
 
