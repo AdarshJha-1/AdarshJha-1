@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adarshjha-1" alt="adarshjha-1" /></a> </p>
 
-- 🔭 I’m currently working on [Secret-Message-Go-Version](https://github.com/AdarshJha-1/Secret-Message-Go-Version)
+- 🔭 I’m currently working on [ama-go](https://github.com/AdarshJha-1/ama-go)
 
 - 🌱 I’m currently learning **Go, Next, Data Structure and Algorithms**
 
