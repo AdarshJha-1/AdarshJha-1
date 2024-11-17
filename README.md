@@ -32,5 +32,5 @@
 
 <h3 align="center">AniList:</h3>
 <p align="center">
-  <a href="https://anilist.co/user/AdarshJha/animelist"><img src="https://i.pinimg.com/736x/9e/d5/8c/9ed58cbe91b592580de1a35bfcdc589a.jpg" alt="Banner"></a>
+  <a href="https://anilist.co/user/AdarshJha/animelist"><img src="https://random-image-server.onrender.com" alt="Banner"></a>
 </p>
