@@ -34,7 +34,3 @@
 <p align="center">
   <a href="https://anilist.co/user/AdarshJha/animelist"><img src="https://i.pinimg.com/736x/77/e4/b3/77e4b301790401e53950ba5c5aaa0a5f.jpg" alt="Banner"></a>
 </p>
-
-### AniList:
-
-[![Banner](https://random-image-server.onrender.com)](https://anilist.co/user/AdarshJha/animelist)
