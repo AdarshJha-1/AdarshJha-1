@@ -34,3 +34,7 @@
 <p align="center">
   <a href="https://anilist.co/user/AdarshJha/animelist"><img src="https://random-image-server.onrender.com/" alt="Banner"></a>
 </p>
+
+### AniList:
+
+[![Banner](https://random-image-server.onrender.com)](https://anilist.co/user/AdarshJha/animelist)
