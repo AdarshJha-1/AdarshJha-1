@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Adarsh+Jha;Full+Stack+Software+Engineer;Go+%7C+TypeScript+%7C+Next.js+%7C+DevOps;Building+Scalable+Systems;Linux+%2B+Neovim+Enjoyer" />
 
 <br/>
@@ -69,32 +68,6 @@ Full stack software engineer focused on backend systems, distributed architectur
 
 ---
 
-# Featured Projects
-
-### Nakama — Anime Social Platform
-
-- Full-stack social platform built with Next.js, PostgreSQL, and Drizzle ORM
-- OAuth authentication, infinite feed, follow system, optimistic updates
-- PostgreSQL full-text search and scalable feed architecture
-
----
-
-### Go Key-Value Store
-
-- Concurrent in-memory database written in Go
-- WAL-based persistence and custom LRU eviction
-- Sustained 10K+ ops/sec in local benchmarks
-
----
-
-### Neovim Productivity Plugin
-
-- Lua-based Neovim plugin for workflow automation
-- Floating UI windows and async job integration
-- Modular architecture for extensibility
-
----
-
 # GitHub Stats
 
 <div align="center">
@@ -102,16 +75,6 @@ Full stack software engineer focused on backend systems, distributed architectur
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AdarshJha-1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshJha-1&theme=tokyonight&hide_border=true&background=00000000" />
-
-</div>
-
----
-
-# Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshJha-1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 
 </div>
 
@@ -126,13 +89,6 @@ Focus   :: Backend Engineering
 Learning:: Distributed Systems
 Status  :: Building
 ```
-
----
-
-# Coding Profiles
-
-- LeetCode → https://leetcode.com/u/adarshjha__1/
-- GeeksforGeeks → https://www.geeksforgeeks.org/profile/adarshjjx45
 
 ---
 
